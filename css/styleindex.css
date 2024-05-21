@@ -1,0 +1,19 @@
+.item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-item {
+    width: 20rem;
+}
+.sele {
+    background-color: gold
+}
+
+.price-sele {
+    color: rgb(210, 162, 30)
+}
+
+.mess button{
+    margin-bottom: 10px;
+}
